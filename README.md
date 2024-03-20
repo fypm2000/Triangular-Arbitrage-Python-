@@ -1,4 +1,4 @@
-# Triangular-Arbitrage-Python
+# Triangular Arbitrage-Python
 
 ## Objective
 
